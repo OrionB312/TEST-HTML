@@ -1,0 +1,13 @@
+body{
+    height: auto;
+}
+
+#wrapper{
+    width:960px;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+header h1{
+    border-bottom: dashed 5px #6EB7DB;
+}
